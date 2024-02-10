@@ -1,3 +1,3 @@
  # sarahwbas
 ## Cat 
-<img src="desktop/GucciCat.jpg" alt"CatGucci">
+<img src="desktop/GucciCat.jpg">

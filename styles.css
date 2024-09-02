@@ -1,0 +1,12 @@
+body {
+    margin: 1;
+    background: pink;
+    text-align: center;
+    color: black;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}

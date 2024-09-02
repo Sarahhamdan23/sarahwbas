@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Hello World, I'm Sarah! <br/><a , <a href="https://www.linkedin.com/in/sarah-hamdan-86651417b/"> 👩🏻‍💼 My Linkedin  </a> <br/> <a href="https://www.youtube.com/@soothingmeditation1223"> 🧘🏻‍♀️ My Meditation page </a></h1>
 
 
@@ -32,3 +33,8 @@ Here are some stuff I am working on:
 - 💬 Ask me about what projects I have created. 
 - 📫 How to reach me: sarahwbas@gmail.com
 - ⚡ 
+=======
+ # sarahwbas
+## Cat 
+<img src="desktop/GucciCat.jpg" width='300'/>
+>>>>>>> 24877778aae01feba7bca62fd3a5b5b8440cac2e
